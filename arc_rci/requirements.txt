@@ -1,0 +1,13 @@
+# ARCO/RCI Module Requirements
+
+# Core dependencies
+numpy>=1.20.0
+scipy>=1.7.0
+matplotlib>=3.3.0
+
+# Optional: for testing
+pytest>=6.0.0
+
+# Optional: for Jupyter notebooks
+jupyter>=1.0.0
+ipython>=7.0.0
